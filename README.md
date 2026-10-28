@@ -42,13 +42,6 @@ Now activate the environment:
 
 		langgraph_env3\Scripts\activate
 
-
-#### YouTube Tuturial (Hindi) - https://youtu.be/ctHby5vhDqg
-
-#### YouTube Tuturial (English) -  https://youtu.be/_5XF5CCnbDk
-
----
-
 # Step 2: Install Dependencies
 
 Run the following command:
@@ -62,13 +55,6 @@ Run the following command:
 # Step 3: Install PostgreSQL
 
 Download and install PostgreSQL: https://www.postgresql.org/download/
-
-⚠️ Important:
-While installing PostgreSQL, remember:
-- PostgreSQL Password
-- Port Number
-
-You will need them later while creating the database connection string.
 
 ---
 
